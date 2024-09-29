@@ -1,0 +1,16 @@
+{
+    "login": "लगइन गर्नुहोस्",
+    "register": "दर्ता गर्नुहोस्",
+    "emailAddress": "इमेल ठेगाना",
+    "password": "पासवर्ड",
+    "username": "प्रयोगकर्ता नाम",
+    "dontHaveAccount": "खाता छैन? दर्ता गर्नुहोस्",
+    "alreadyHaveAccount": "पहिले नै खाता छ? लगइन गर्नुहोस्",
+    "chooseCategory": "श्रेणी छान्नुहोस्",
+    "feelingLow": "के तपाईलाई मन थाकेको छ? कुरा गर्न चाहानुहुन्छ",
+    "academicHelp": "शैक्षिक मद्दत",
+    "financialHelp": "वित्तीय मद्दत",
+    "immigrationHelp": "आप्रवासन मद्दत",
+    "jobsAndCareer": "रोजगारी र करियर",
+    "translateToImage": "तपाईंको भाषालाई चित्रमा अनुवाद गर्नुहोस्"
+}

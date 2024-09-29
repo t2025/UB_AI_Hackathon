@@ -1,0 +1,17 @@
+{
+    "login": "Login",
+    "register": "Register",
+    "emailAddress": "Email Address",
+    "password": "Password",
+    "username": "Username",
+    "dontHaveAccount": "Don’t have an account? Register",
+    "alreadyHaveAccount": "Already have an account? Login",
+    "chooseCategory": "Choose a Category",
+    "feelingLow": "Feeling Low? Wanna Talk",
+    "academicHelp": "Academic Help",
+    "financialHelp": "Financial Help",
+    "immigrationHelp": "Immigration Help",
+    "jobsAndCareer": "Jobs And Career",
+    "translateToImages": "Translate your language to Images"
+      
+  }

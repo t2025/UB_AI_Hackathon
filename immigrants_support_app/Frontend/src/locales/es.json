@@ -1,0 +1,8 @@
+{
+    "title": "Traduce Tu Lengua a Imagen",
+    "speak": "¡Habla para generar una imagen basada en tu descripción!",
+    "startTalking": "Comenzar a Hablar",
+    "stopTalking": "Detener Hablar",
+    "youSaid": "Dijiste: {{text}}",
+    "generatedImage": "Imagen Generada"
+  }

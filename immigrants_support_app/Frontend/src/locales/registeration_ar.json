@@ -1,0 +1,16 @@
+{
+    "login": "تسجيل الدخول",
+    "register": "التسجيل",
+    "emailAddress": "عنوان البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "username": "اسم المستخدم",
+    "dontHaveAccount": "ليس لديك حساب؟ سجل الآن",
+    "alreadyHaveAccount": "هل لديك حساب بالفعل؟ تسجيل الدخول",
+    "chooseCategory": "اختر فئة",
+    "feelingLow": "تشعر بالضيق؟ هل تريد التحدث",
+    "academicHelp": "مساعدة أكاديمية",
+    "financialHelp": "مساعدة مالية",
+    "immigrationHelp": "مساعدة الهجرة",
+    "jobsAndCareer": "الوظائف والمهن",
+    "translateToImage": "ترجم لغتك إلى صور"
+}

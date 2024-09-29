@@ -1,0 +1,46 @@
+/* src/LandingPage.css */
+
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('/Users/tanviranga/Documents/UB_AI_Hackathon/immigrant-support-app/public/background_image.jpg'); /* Replace with your image */
+    background-size: cover;
+    background-position: center; /* Center the background image */
+    color: white;
+    text-align: center;
+    padding: 20px; /* Add padding for smaller screens */
+    overflow: hidden; /* Prevent overflow */
+}
+
+.language-buttons {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column; /* Stack buttons vertically */
+    align-items: center; /* Center the buttons */
+}
+
+.language-buttons button {
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transition for background and scaling */
+    width: 90%; /* Make buttons fill available space */
+    max-width: 300px; /* Set a max width for buttons */
+}
+
+.language-buttons button:hover {
+    background-color: rgba(255, 255, 255, 0.6); /* Darker on hover */
+    transform: scale(1.05); /* Slightly enlarge the button */
+}
+
+.language-buttons button:focus {
+    outline: none; /* Remove default outline */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Add a focus ring effect */
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Translate Your Language to Image",
+    "speak": "Speak to generate an image based on your description!",
+    "startTalking": "Start Talking",
+    "stopTalking": "Stop Talking",
+    "youSaid": "You said: {{text}}",
+    "generatedImage": "Generated Image"
+  }

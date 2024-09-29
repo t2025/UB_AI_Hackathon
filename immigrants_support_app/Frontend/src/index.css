@@ -1,0 +1,48 @@
+/* src/index.css */
+
+.app {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f4f8; /* Light background color */
+}
+
+.language-picker {
+  margin: 20px 0;
+}
+
+.language-picker button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff; /* Primary button color */
+  color: white;
+  transition: background-color 0.3s;
+}
+
+.language-picker button:hover {
+  background-color: #0056b3; /* Darker on hover */
+}
+
+.categories {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: white; /* White background for categories */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+
+.categories ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.categories li {
+  background: #f9f9f9;
+  padding: 15px;
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  border-radius: 5px;
+}

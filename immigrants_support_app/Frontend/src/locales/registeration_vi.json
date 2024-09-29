@@ -1,0 +1,9 @@
+{
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "emailAddress": "Địa chỉ email",
+    "password": "Mật khẩu",
+    "username": "Tên người dùng",
+    "dontHaveAccount": "Chưa có tài khoản? Đăng ký",
+    "alreadyHaveAccount": "Đã có tài khoản? Đăng nhập"
+}

@@ -1,0 +1,9 @@
+{
+    "login": "登录",
+    "register": "注册",
+    "emailAddress": "电子邮件地址",
+    "password": "密码",
+    "username": "用户名",
+    "dontHaveAccount": "没有账户？注册",
+    "alreadyHaveAccount": "已有账户？登录"
+}
